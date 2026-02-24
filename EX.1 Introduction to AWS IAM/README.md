@@ -27,15 +27,20 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Reviewed pre-created IAM users: user-1, user-2, user-3  
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
-**Screenshot:**  
-(Add screenshot here)
+**Screenshot:**
+   
+<img width="1915" height="976" alt="Screenshot 2026-02-05 190148" src="https://github.com/user-attachments/assets/8461f72a-5df2-49fa-813b-49602a80b2c6" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1919" height="996" alt="Screenshot 2026-02-05 191314" src="https://github.com/user-attachments/assets/09610fd4-e23a-44c0-8dfb-49344287938a" />
+
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +48,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+
+<img width="1919" height="995" alt="Screenshot 2026-02-05 191537" src="https://github.com/user-attachments/assets/163ede2d-bb6a-442f-b98f-1f5a8a2376d0" />
+
 
 
 ## Workflow
@@ -66,6 +73,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** Sanjana J 212224230240
 **Course:** Introduction to Cloud Computing  
 
